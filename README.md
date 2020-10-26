@@ -18,7 +18,7 @@ I am interested in tech industry as well as business development. 🦆
 ---
 
 <p>
-  <a href="https://github.com/risangbaskoro/toileet"><img width="80" align='left' src="https://github.com/risangbaskoro/toileet/blob/master/assets-readme/toilet-icon-android-ver0.0.1.png?raw=true" ></a>
+  <a href="https://github.com/risangbaskoro/toileet"><img width="80" align='right' src="https://github.com/risangbaskoro/toileet/blob/master/assets-readme/toilet-icon-android-ver0.0.1.png?raw=true" ></a>
 </p>
 <p>
   <img src="https://media.giphy.com/media/IcifS1qG3YFlS/giphy.gif" align="left" width="200" alt="Toilet GIF">
