@@ -35,3 +35,5 @@ Feel free to reach me via [email].
 
 
 [Readme Header]: https://github.com/risangbaskoro/risangbaskoro/blob/main/images/readme_header.png?raw=true
+[email]: mailto:contact@risangbaskoro.com
+[Twitter]: https://twitter.com/risangbaskoro
