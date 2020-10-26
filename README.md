@@ -1,12 +1,18 @@
 ![Readme Header]
 
+<p align="center">
+    <a href="mailto:contact@risangbaskoro.com"><img src="https://github.com/risangbaskoro/risangbaskoro/blob/master/images/mail.png?raw=true" height="25"></a>
+    <a href="https://twitter.com/risangbaskoro"><img src="https://github.com/risangbaskoro/risangbaskoro/blob/master/images/twitter.png?raw=true" height="25"></a>
+    <a href="https://linkedin.com/in/risangbaskoro"><img src="https://github.com/risangbaskoro/risangbaskoro/blob/master/images/linkedin.png?raw=true" height="25"></a>
+    <a href="https://open.spotify.com/user/risangbaskoro"><img src="https://github.com/risangbaskoro/risangbaskoro/blob/master/images/spotify.png?raw=true" height="25"></a>
+</p>
+
 ---
-
-My name is Risang and I am a computer science student in Diponegoro University, Indonesia. 
-
 <p>
   <img src="https://media.giphy.com/media/gr5qY4qj8G96o/giphy.gif" align="right" width="200" alt="Working Penguin">
 </p>
+
+My name is Risang and I am a computer science student in Diponegoro University, Indonesia. 
 I am interested in tech industry as well as business development. 🦆
 
 ---
@@ -18,6 +24,8 @@ I am interested in tech industry as well as business development. 🦆
 <img src="https://media.giphy.com/media/IcifS1qG3YFlS/giphy.gif" align="right" width="200" alt="Toilet GIF">
 
 I am working on starting a company called Toileet. It's a service provider based in Indonesia where people can rent a clean and hygiene restroom and toilet in public places, mainly urban tourist attractions. Though, I still need a lots and lots of researches and resources (including humans) to make this idea come true. If you're interested in contributing, please contact me. 🚻
+
+
 
 ---
 
