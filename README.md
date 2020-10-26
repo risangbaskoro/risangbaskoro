@@ -1,4 +1,4 @@
-<img src="https://github.com/risangbaskoro/risangbaskoro/blob/main/images/readme_header.png?raw=true" align="center" width="300" alt="Readme Header">
+![Readme Header]
 
 <p align="center">
     <a href="mailto:contact@risangbaskoro.com"><img src="https://github.com/risangbaskoro/risangbaskoro/blob/main/images/mail.png?raw=true" height="25"></a>
