@@ -1,5 +1,3 @@
-![Readme Header]
-
 <p align="center">
     <a href="mailto:contact@risangbaskoro.com"><img src="https://github.com/risangbaskoro/risangbaskoro/blob/main/images/mail.png?raw=true" height="25"></a>
     <a href="https://twitter.com/risangbaskoro"><img src="https://github.com/risangbaskoro/risangbaskoro/blob/main/images/twitter.png?raw=true" height="25"></a>
@@ -29,11 +27,11 @@ I am working on starting a company called Toileet. It's a service provider based
 
 ---
 
-You can find me on [Twitter] (mostly tweeting in Indonesian).
+You can find me on [Twitter] (mostly tweeting in Indonesian) and [LinkedIn].
 
 Feel free to reach me via [email].
 
 
-[Readme Header]: https://github.com/risangbaskoro/risangbaskoro/blob/main/images/readme_header.png?raw=true
 [email]: mailto:contact@risangbaskoro.com
 [Twitter]: https://twitter.com/risangbaskoro
+[LinkedIn] : htpps://linkedin.com/in/risangbaskoro
