@@ -34,4 +34,4 @@ Feel free to reach me via [email].
 
 [email]: mailto:contact@risangbaskoro.com
 [Twitter]: https://twitter.com/risangbaskoro
-[LinkedIn] : htpps://linkedin.com/in/risangbaskoro
+[LinkedIn] : https://linkedin.com/in/risangbaskoro
