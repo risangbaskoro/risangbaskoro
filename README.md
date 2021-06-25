@@ -1,1 +1,1 @@
-[risangbaskoro](https://risangbaskoro.com)
+[risangbaskoro.com](https://risangbaskoro.com)
